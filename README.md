@@ -1,0 +1,1 @@
+I have created a database and two table and set d_id as primary key and used it for reference by using Foreign key and inserted the values in it, and i dont know much about schema or ER diagram so i just did what i remembered
